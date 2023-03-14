@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestProgram</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+    <string name="devide">devide</string>
+    <string name="plus">plus</string>
+</resources>
